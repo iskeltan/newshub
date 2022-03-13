@@ -1,7 +1,12 @@
 env
+.idea
 *.pyc
 _lastnews_frontend
 lastnews_frontback
 lastnews_frontend
 old_front
 .DS_Store
+*.sqlite3
+.expo-shared
+shortnews/android/
+shortnews/ios/
