@@ -1,0 +1,7 @@
+env
+*.pyc
+_lastnews_frontend
+lastnews_frontback
+lastnews_frontend
+old_front
+.DS_Store

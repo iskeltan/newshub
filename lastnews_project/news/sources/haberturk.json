@@ -1,0 +1,24 @@
+{
+    "6": [
+        "https://www.haberturk.com/rss/kategori/is-yasam.xml",
+        "https://www.haberturk.com/rss/kategori/yasam.xml"
+    ],
+    "7": "https://www.haberturk.com/rss/kategori/dunya.xml",
+    "8": "https://www.haberturk.com/rss/kategori/teknoloji.xml",
+    "1": [
+        "https://haberturk.com/rss/manset.xml",
+        "https://www.haberturk.com/rss/kategori/video.xml",
+        "https://www.haberturk.com/rss/yerel-haberler.xml"
+    ],
+    "5": "https://www.haberturk.com/rss/kategori/gundem.xml",
+    "3": "https://haberturk.com/rss/ekonomi.xml",
+    "14": "https://haberturk.com/rss/magazin.xml",
+    "13": [
+        "https://www.haberturk.com/rss/kategori/kultur-sanat.xml",
+        "https://www.haberturk.com/rss/kategori/sinema.xml",
+        "https://www.haberturk.com/rss/kategori/kitap.xml"
+    ],
+    "4": "https://haberturk.com/rss/spor.xml",
+    "11": "https://www.haberturk.com/rss/kategori/saglik.xml",
+    "10": "https://www.haberturk.com/rss/kategori/otomobil.xml"
+}

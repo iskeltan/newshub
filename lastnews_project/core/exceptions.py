@@ -1,0 +1,2 @@
+class ProcessorValidationError(Exception):
+    pass

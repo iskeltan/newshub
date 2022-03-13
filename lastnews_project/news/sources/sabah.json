@@ -1,0 +1,23 @@
+{
+    "9": "https://www.sabah.com.tr/rss/turizm.xml",
+    "6": "https://www.sabah.com.tr/rss/yasam.xml",
+    "7": "https://www.sabah.com.tr/rss/dunya.xml",
+    "8": "https://www.sabah.com.tr/rss/teknoloji.xml",
+    "1": [
+        "https://www.sabah.com.tr/rss/anasayfa.xml",
+        "https://www.sabah.com.tr/rss/gununicinden.xml"
+    ],
+    "3": "https://www.sabah.com.tr/rss/ekonomi.xml",
+    "2": "https://www.sabah.com.tr/rss/sondakika.xml",
+    "5": "https://www.sabah.com.tr/rss/gundem.xml",
+    "4": [
+        "https://www.sabah.com.tr/rss/spor.xml",
+        "https://www.sabah.com.tr/rss/galatasaray.xml",
+        "https://www.sabah.com.tr/rss/fenerbahce.xml",
+        "https://www.sabah.com.tr/rss/besiktas.xml",
+        "https://www.sabah.com.tr/rss/trabzonspor.xml",
+        "https://www.sabah.com.tr/rss/bursaspor.xml"
+    ],
+    "11": "https://www.sabah.com.tr/rss/saglik.xml",
+    "10": "https://www.sabah.com.tr/rss/otomobil.xml"
+}

@@ -1,0 +1,27 @@
+{
+  "4": [
+    "https://www.ahaber.com.tr/rss/spor.xml",
+    "https://www.ahaber.com.tr/rss/besiktas.xml",
+    "https://www.ahaber.com.tr/rss/fenerbahce.xml",
+    "https://www.ahaber.com.tr/rss/galatasaray.xml",
+    "https://www.ahaber.com.tr/rss/trabzonspor.xml",
+    "https://www.ahaber.com.tr/rss/basaksehir.xml"
+  ],
+  "1": [
+    "https://www.ahaber.com.tr/rss/anasayfa.xml",
+    "https://www.ahaber.com.tr/rss/analiz.xml",
+    "https://www.ahaber.com.tr/rss/ozel-haberler.xml"
+  ],
+  "2": "https://www.ahaber.com.tr/rss/son24saat.xml",
+  "5": [
+    "https://www.ahaber.com.tr/rss/gundem.xml",
+    "https://www.ahaber.com.tr/rss/tum-mansetler.xml"
+  ],
+  "3": "https://www.ahaber.com.tr/rss/ekonomi.xml",
+  "14": "https://www.ahaber.com.tr/rss/magazin.xml",
+  "6": "https://www.ahaber.com.tr/rss/yasam.xml",
+  "10": "https://www.ahaber.com.tr/rss/otomobil.xml",
+  "7": "https://www.ahaber.com.tr/rss/dunya.xml",
+  "8": "https://www.ahaber.com.tr/rss/teknoloji.xml",
+  "11": "https://www.ahaber.com.tr/rss/saglik.xml"
+}
